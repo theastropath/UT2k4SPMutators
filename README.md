@@ -21,7 +21,7 @@ GUIController=UT2k4SPMutators.UT2K4GUIControllerMutator
 
 and you should be able to create a new save in the Single Player menu and use whatever mutators you want!
 
-If you want to revert to the normal single player campaign, you can change those lines back to:
+If you want to revert to the normal single player campaign, you can change that line back to:
 
 ```
 GUIController=GUI2K4.UT2K4GUIController
